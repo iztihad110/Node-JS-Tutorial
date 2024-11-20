@@ -1,0 +1,16 @@
+{
+  "name": "node_external",
+  "version": "1.0.0",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Node_http.js"
+  },
+  "author": "Iztihad",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.7",
+    "random-fruits-name": "^1.10.1"
+  }
+}
